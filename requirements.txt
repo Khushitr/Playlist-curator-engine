@@ -1,0 +1,7 @@
+spotipy
+python-dotenv
+boto3
+pandas
+fastapi
+uvicorn
+streamlit
